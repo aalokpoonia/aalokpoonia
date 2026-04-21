@@ -24,7 +24,7 @@ Personal finance tracker with charts and category filters.
 Product listing, cart, filters — responsive across devices.
 → shopease-reactapp.netlify.app
 
-💼 GoHire — Job portal (MERN Stack + JWT)
+💼 GoHire — Job portal (MERN Stack + JWT) (Next working project)
 Role-based auth for job seekers & recruiters. RESTful APIs, applicant tracking.
 → github.com/aalokpoonia/gohire
 
