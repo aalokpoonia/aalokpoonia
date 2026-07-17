@@ -1,5 +1,5 @@
 Hey, I'm Aalok 👋
-I'm a 3rd year CSE student at VIT Bhopal (GPA: 8.19), building full-stack web apps with React, Node.js, and Firebase. I like turning ideas into working products — not just tutorials.
+I'm a 3rd year CSE student at VIT Bhopal (GPA: 8.37), building full-stack web apps with React, Node.js, and Firebase. I like turning ideas into working products — not just tutorials.
 Currently focused on MERN stack + Firebase projects, and slowly getting into AI/ML on the side.
 
 What I work with:
