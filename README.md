@@ -1,34 +1,103 @@
-Hey, I'm Aalok 👋
-I'm a 3rd year CSE student at VIT Bhopal (GPA: 8.37), building full-stack web apps with React, Node.js, and Firebase. I like turning ideas into working products — not just tutorials.
-Currently focused on MERN stack + Firebase projects, and slowly getting into AI/ML on the side.
+<h1 align="center">Hi 👋, I'm Aalok</h1>
 
-What I work with:
+<h3 align="center">
+Full-Stack Web Developer | Java · React.js · Node.js · Express.js · MongoDB · REST APIs
+</h3>
 
-Frontend — React.js, Tailwind CSS, HTML/CSS
-Backend — Node.js, Express.js, REST APIs, JWT Auth
-Databases — MongoDB, Firebase Firestore, MySQL
-Languages — JavaScript, Java (DSA), SQL, Python (learning)
-Tools — Git, Postman, VS Code, Docker (basics), Figma
+<p align="center">
+B.Tech CSE (E-Commerce Technology) @ VIT Bhopal University | GPA: 8.37
+</p>
 
+---
 
-Projects I've built:
-🏥 SwasthSetu — Healthcare admin panel (React + Firebase)
-Full CRUD for patients, doctors & appointments. Firebase auth + Firestore.
-→ github.com/aalokpoonia/swasthsetu-admin
+## 👨‍💻 About Me
 
-💰 Cash Control — Expense tracker (React + Tailwind)
-Personal finance tracker with charts and category filters.
-→ paisa-tracker-app.netlify.app
+🎓 B.Tech Computer Science student building full-stack web applications with React.js, Node.js, Express.js, MongoDB, and Firebase.
 
-🛒 ShopEase — E-commerce UI (React + Tailwind)
-Product listing, cart, filters — responsive across devices.
-→ shopease-reactapp.netlify.app
+💻 Strong foundation in Java, DSA, DBMS, and RESTful API development.
 
-💼 GoHire — Job portal (MERN Stack + JWT) (Next working project)
-Role-based auth for job seekers & recruiters. RESTful APIs, applicant tracking.
-→ github.com/aalokpoonia/gohire
+🚀 Experience building, deploying, and maintaining scalable applications on Netlify and Render.
 
-A bit more about me:
-Technical Lead at Andy Haryana Club, VIT Bhopal (2024–25) — built event pages, managed member DB
-Certified: Google IT Support | NPTEL Deep Learning (IIT Ropar) | IoT Security (Univ. of Colorado)
-Currently exploring: AI/ML fundamentals, prompt engineering, OpenAI API
+🌱 Currently building **LogiTrack**, a freight brokerage management platform for a real transportation business.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Java, JavaScript, SQL, Python
+
+**Core CS:** DSA (Java), OOP, DBMS, Operating Systems, Computer Networks
+
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS, React Router, Chart.js
+
+**Backend & Database:** Node.js, Express.js, REST APIs, JWT, MongoDB, Firebase, MySQL
+
+**Tools:** Git, GitHub, VS Code, Netlify, Render, AWS (Basic), Docker (Basic), Figma
+
+---
+
+## 🚀 Featured Projects
+
+### 🚚 LogiTrack — Freight Brokerage Management Platform *(In Progress)*
+React.js · Node.js · Express.js · MongoDB · JWT
+
+Full-stack transport management system digitizing freight booking, brokerage operations, client management, and logistics workflows for a real transportation business. JWT auth, scalable MongoDB schemas for Clients/Brokers/Vehicles/Drivers, and an operational dashboard. Currently building shipment booking, billing, and reporting workflows.
+
+🔗 [Live](https://logitrackapp.netlify.app) · 🔗 [GitHub](https://github.com/aalokpoonia/LogiTrack)
+
+---
+
+### 🏥 SwasthSetu — Healthcare Management System
+React.js · Firebase · Tailwind CSS · Chart.js
+
+Healthcare administration dashboard managing patients, appointments, staff, and medical records with role-based access control. Integrated Firebase Auth and Firestore for real-time CRUD and synchronized data, plus Chart.js dashboards for operational analytics.
+
+🔗 [Live](https://swasthsetu-admin.netlify.app) · 🔗 [GitHub](https://github.com/aalokpoonia/swasthsetu-admin)
+
+---
+
+### 🛒 ShopEase — Full-Stack E-Commerce Platform
+React.js · Node.js · Express.js · MongoDB · JWT
+
+Responsive MERN e-commerce platform with JWT auth, protected routes, product catalog, shopping cart, and complete order management. RESTful APIs with schema validation and password encryption.
+
+🔗 [Live](https://shopease-mern.netlify.app) · 🔗 [GitHub](https://github.com/aalokpoonia/ShopEase)
+
+---
+
+## 💼 Experience
+
+**Technical Lead** — Andy Haryana Club, VIT Bhopal University *(2024 – 2025)*
+- Developed a responsive React.js event portal, improving registration and member management for 300+ users.
+- Designed and managed a member database using SQL, reducing administrative overhead by ~30%.
+
+---
+
+## 🎓 Education
+
+**VIT Bhopal University** — B.Tech CSE (E-Commerce Technology) | GPA: 8.37 *(Aug 2023 – May 2027)*
+
+---
+
+## 📜 Certifications
+
+🏆 Software Engineer — HackerRank Certified Role Assessment
+
+☁️ AWS Cloud Training — Intellipaat Academy
+
+☕ Programming in Java — Vityarthi, VIT Bhopal
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aalokpoonia&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalokpoonia&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+📧 aalokpoonia.work@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/aalokpoonia) · 🌐 [GitHub](https://github.com/aalokpoonia)
