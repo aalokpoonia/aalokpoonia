@@ -92,4 +92,4 @@ Responsive MERN e-commerce platform with JWT auth, protected routes, product cat
 
 ## 🤝 Connect With Me
 
-📧 aalokpoonia.work@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/aalokpoonia) · 🌐 [GitHub](https://github.com/aalokpoonia)
+📧 aalokpoonia.work@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/aalok-poonia-b78b52281/) · 🌐 [GitHub](https://github.com/aalokpoonia)
