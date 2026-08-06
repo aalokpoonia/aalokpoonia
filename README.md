@@ -5,7 +5,7 @@ Full-Stack Web Developer | Java · React.js · Node.js · Express.js · MongoDB 
 </h3>
 
 <p align="center">
-B.Tech CSE (E-Commerce Technology) @ VIT Bhopal University | GPA: 8.37
+B.Tech CSE (E-Commerce Technology) @ VIT Bhopal University | GPA: 8.36
 </p>
 
 ---
